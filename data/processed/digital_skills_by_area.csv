@@ -1,0 +1,913 @@
+geo_code,geo_label,year,age_group,skill_area,pct_basic_or_above
+EU27_2020,European Union - 27 countries (from 2020),2025,All individuals (16-74),Information and data literacy,86.47
+EA,Euro area,2025,All individuals (16-74),Information and data literacy,86.72
+BE,Belgium,2025,All individuals (16-74),Information and data literacy,89.2
+BG,Bulgaria,2025,All individuals (16-74),Information and data literacy,73.64
+CZ,Czechia,2025,All individuals (16-74),Information and data literacy,92.77
+DK,Denmark,2025,All individuals (16-74),Information and data literacy,97.03
+DE,Germany,2025,All individuals (16-74),Information and data literacy,87.86
+EE,Estonia,2025,All individuals (16-74),Information and data literacy,91.29
+IE,Ireland,2025,All individuals (16-74),Information and data literacy,96.62
+EL,Greece,2025,All individuals (16-74),Information and data literacy,86.25
+ES,Spain,2025,All individuals (16-74),Information and data literacy,89.84
+FR,France,2025,All individuals (16-74),Information and data literacy,85.26
+HR,Croatia,2025,All individuals (16-74),Information and data literacy,83.64
+IT,Italy,2025,All individuals (16-74),Information and data literacy,79.06
+CY,Cyprus,2025,All individuals (16-74),Information and data literacy,91.8
+LV,Latvia,2025,All individuals (16-74),Information and data literacy,83.57
+LT,Lithuania,2025,All individuals (16-74),Information and data literacy,85.99
+LU,Luxembourg,2025,All individuals (16-74),Information and data literacy,90.65
+HU,Hungary,2025,All individuals (16-74),Information and data literacy,86.77
+MT,Malta,2025,All individuals (16-74),Information and data literacy,90.63
+NL,Netherlands,2025,All individuals (16-74),Information and data literacy,97.48
+AT,Austria,2025,All individuals (16-74),Information and data literacy,87.29
+PL,Poland,2025,All individuals (16-74),Information and data literacy,84.15
+PT,Portugal,2025,All individuals (16-74),Information and data literacy,84.15
+RO,Romania,2025,All individuals (16-74),Information and data literacy,79.43
+SI,Slovenia,2025,All individuals (16-74),Information and data literacy,88.42
+SK,Slovakia,2025,All individuals (16-74),Information and data literacy,84.78
+FI,Finland,2025,All individuals (16-74),Information and data literacy,96.97
+SE,Sweden,2025,All individuals (16-74),Information and data literacy,95.11
+NO,Norway,2025,All individuals (16-74),Information and data literacy,97.29
+CH,Switzerland,2025,All individuals (16-74),Information and data literacy,95.04
+BA,Bosnia and Herzegovina,2025,All individuals (16-74),Information and data literacy,81.63
+ME,Montenegro,2025,All individuals (16-74),Information and data literacy,87.34
+MK,North Macedonia,2025,All individuals (16-74),Information and data literacy,72.82
+AL,Albania,2025,All individuals (16-74),Information and data literacy,77.37
+RS,Serbia,2025,All individuals (16-74),Information and data literacy,87.09
+TR,Türkiye,2025,All individuals (16-74),Information and data literacy,76.48
+XK,Kosovo*,2025,All individuals (16-74),Information and data literacy,85.71
+EU27_2020,European Union - 27 countries (from 2020),2025,All individuals (16-74),Communication and collaboration,92.07
+EA,Euro area,2025,All individuals (16-74),Communication and collaboration,92.77
+BE,Belgium,2025,All individuals (16-74),Communication and collaboration,94.64
+BG,Bulgaria,2025,All individuals (16-74),Communication and collaboration,85.34
+CZ,Czechia,2025,All individuals (16-74),Communication and collaboration,92.8
+DK,Denmark,2025,All individuals (16-74),Communication and collaboration,98.9
+DE,Germany,2025,All individuals (16-74),Communication and collaboration,93.06
+EE,Estonia,2025,All individuals (16-74),Communication and collaboration,90.96
+IE,Ireland,2025,All individuals (16-74),Communication and collaboration,99.34
+EL,Greece,2025,All individuals (16-74),Communication and collaboration,87.85
+ES,Spain,2025,All individuals (16-74),Communication and collaboration,96.0
+FR,France,2025,All individuals (16-74),Communication and collaboration,93.67
+HR,Croatia,2025,All individuals (16-74),Communication and collaboration,84.31
+IT,Italy,2025,All individuals (16-74),Communication and collaboration,87.97
+CY,Cyprus,2025,All individuals (16-74),Communication and collaboration,92.28
+LV,Latvia,2025,All individuals (16-74),Communication and collaboration,92.38
+LT,Lithuania,2025,All individuals (16-74),Communication and collaboration,86.27
+LU,Luxembourg,2025,All individuals (16-74),Communication and collaboration,96.75
+HU,Hungary,2025,All individuals (16-74),Communication and collaboration,89.57
+MT,Malta,2025,All individuals (16-74),Communication and collaboration,95.41
+NL,Netherlands,2025,All individuals (16-74),Communication and collaboration,99.52
+AT,Austria,2025,All individuals (16-74),Communication and collaboration,93.96
+PL,Poland,2025,All individuals (16-74),Communication and collaboration,84.75
+PT,Portugal,2025,All individuals (16-74),Communication and collaboration,88.17
+RO,Romania,2025,All individuals (16-74),Communication and collaboration,92.04
+SI,Slovenia,2025,All individuals (16-74),Communication and collaboration,89.65
+SK,Slovakia,2025,All individuals (16-74),Communication and collaboration,89.67
+FI,Finland,2025,All individuals (16-74),Communication and collaboration,97.14
+SE,Sweden,2025,All individuals (16-74),Communication and collaboration,96.88
+NO,Norway,2025,All individuals (16-74),Communication and collaboration,97.87
+CH,Switzerland,2025,All individuals (16-74),Communication and collaboration,98.23
+BA,Bosnia and Herzegovina,2025,All individuals (16-74),Communication and collaboration,89.92
+ME,Montenegro,2025,All individuals (16-74),Communication and collaboration,94.02
+MK,North Macedonia,2025,All individuals (16-74),Communication and collaboration,91.3
+AL,Albania,2025,All individuals (16-74),Communication and collaboration,86.88
+RS,Serbia,2025,All individuals (16-74),Communication and collaboration,88.79
+TR,Türkiye,2025,All individuals (16-74),Communication and collaboration,89.39
+XK,Kosovo*,2025,All individuals (16-74),Communication and collaboration,98.26
+EU27_2020,European Union - 27 countries (from 2020),2025,All individuals (16-74),Digital content creation,70.51
+EA,Euro area,2025,All individuals (16-74),Digital content creation,72.86
+BE,Belgium,2025,All individuals (16-74),Digital content creation,75.1
+BG,Bulgaria,2025,All individuals (16-74),Digital content creation,53.7
+CZ,Czechia,2025,All individuals (16-74),Digital content creation,73.83
+DK,Denmark,2025,All individuals (16-74),Digital content creation,86.7
+DE,Germany,2025,All individuals (16-74),Digital content creation,73.01
+EE,Estonia,2025,All individuals (16-74),Digital content creation,70.01
+IE,Ireland,2025,All individuals (16-74),Digital content creation,90.31
+EL,Greece,2025,All individuals (16-74),Digital content creation,59.27
+ES,Spain,2025,All individuals (16-74),Digital content creation,74.13
+FR,France,2025,All individuals (16-74),Digital content creation,76.67
+HR,Croatia,2025,All individuals (16-74),Digital content creation,79.56
+IT,Italy,2025,All individuals (16-74),Digital content creation,62.63
+CY,Cyprus,2025,All individuals (16-74),Digital content creation,69.19
+LV,Latvia,2025,All individuals (16-74),Digital content creation,63.5
+LT,Lithuania,2025,All individuals (16-74),Digital content creation,63.07
+LU,Luxembourg,2025,All individuals (16-74),Digital content creation,78.09
+HU,Hungary,2025,All individuals (16-74),Digital content creation,62.31
+MT,Malta,2025,All individuals (16-74),Digital content creation,72.77
+NL,Netherlands,2025,All individuals (16-74),Digital content creation,87.96
+AT,Austria,2025,All individuals (16-74),Digital content creation,87.46
+PL,Poland,2025,All individuals (16-74),Digital content creation,62.07
+PT,Portugal,2025,All individuals (16-74),Digital content creation,65.34
+RO,Romania,2025,All individuals (16-74),Digital content creation,42.31
+SI,Slovenia,2025,All individuals (16-74),Digital content creation,63.46
+SK,Slovakia,2025,All individuals (16-74),Digital content creation,65.29
+FI,Finland,2025,All individuals (16-74),Digital content creation,83.47
+SE,Sweden,2025,All individuals (16-74),Digital content creation,79.52
+NO,Norway,2025,All individuals (16-74),Digital content creation,85.41
+CH,Switzerland,2025,All individuals (16-74),Digital content creation,85.07
+BA,Bosnia and Herzegovina,2025,All individuals (16-74),Digital content creation,55.95
+ME,Montenegro,2025,All individuals (16-74),Digital content creation,90.52
+MK,North Macedonia,2025,All individuals (16-74),Digital content creation,33.89
+AL,Albania,2025,All individuals (16-74),Digital content creation,51.55
+RS,Serbia,2025,All individuals (16-74),Digital content creation,69.89
+TR,Türkiye,2025,All individuals (16-74),Digital content creation,39.06
+XK,Kosovo*,2025,All individuals (16-74),Digital content creation,97.69
+EU27_2020,European Union - 27 countries (from 2020),2025,All individuals (16-74),Safety,74.63
+EA,Euro area,2025,All individuals (16-74),Safety,76.41
+BE,Belgium,2025,All individuals (16-74),Safety,70.41
+BG,Bulgaria,2025,All individuals (16-74),Safety,55.11
+CZ,Czechia,2025,All individuals (16-74),Safety,85.77
+DK,Denmark,2025,All individuals (16-74),Safety,90.61
+DE,Germany,2025,All individuals (16-74),Safety,73.22
+EE,Estonia,2025,All individuals (16-74),Safety,74.96
+IE,Ireland,2025,All individuals (16-74),Safety,88.46
+EL,Greece,2025,All individuals (16-74),Safety,70.05
+ES,Spain,2025,All individuals (16-74),Safety,81.21
+FR,France,2025,All individuals (16-74),Safety,77.9
+HR,Croatia,2025,All individuals (16-74),Safety,70.67
+IT,Italy,2025,All individuals (16-74),Safety,73.41
+CY,Cyprus,2025,All individuals (16-74),Safety,66.43
+LV,Latvia,2025,All individuals (16-74),Safety,63.81
+LT,Lithuania,2025,All individuals (16-74),Safety,64.31
+LU,Luxembourg,2025,All individuals (16-74),Safety,71.88
+HU,Hungary,2025,All individuals (16-74),Safety,80.01
+MT,Malta,2025,All individuals (16-74),Safety,77.59
+NL,Netherlands,2025,All individuals (16-74),Safety,92.26
+AT,Austria,2025,All individuals (16-74),Safety,76.42
+PL,Poland,2025,All individuals (16-74),Safety,64.07
+PT,Portugal,2025,All individuals (16-74),Safety,76.52
+RO,Romania,2025,All individuals (16-74),Safety,52.62
+SI,Slovenia,2025,All individuals (16-74),Safety,56.16
+SK,Slovakia,2025,All individuals (16-74),Safety,66.05
+FI,Finland,2025,All individuals (16-74),Safety,92.35
+SE,Sweden,2025,All individuals (16-74),Safety,80.56
+NO,Norway,2025,All individuals (16-74),Safety,90.05
+CH,Switzerland,2025,All individuals (16-74),Safety,89.16
+BA,Bosnia and Herzegovina,2025,All individuals (16-74),Safety,49.05
+ME,Montenegro,2025,All individuals (16-74),Safety,51.14
+MK,North Macedonia,2025,All individuals (16-74),Safety,58.39
+AL,Albania,2025,All individuals (16-74),Safety,42.57
+RS,Serbia,2025,All individuals (16-74),Safety,48.1
+TR,Türkiye,2025,All individuals (16-74),Safety,54.68
+XK,Kosovo*,2025,All individuals (16-74),Safety,97.02
+EU27_2020,European Union - 27 countries (from 2020),2025,All individuals (16-74),Problem solving,86.07
+EA,Euro area,2025,All individuals (16-74),Problem solving,87.51
+BE,Belgium,2025,All individuals (16-74),Problem solving,91.92
+BG,Bulgaria,2025,All individuals (16-74),Problem solving,64.3
+CZ,Czechia,2025,All individuals (16-74),Problem solving,90.79
+DK,Denmark,2025,All individuals (16-74),Problem solving,98.69
+DE,Germany,2025,All individuals (16-74),Problem solving,88.64
+EE,Estonia,2025,All individuals (16-74),Problem solving,91.4
+IE,Ireland,2025,All individuals (16-74),Problem solving,98.93
+EL,Greece,2025,All individuals (16-74),Problem solving,82.31
+ES,Spain,2025,All individuals (16-74),Problem solving,89.07
+FR,France,2025,All individuals (16-74),Problem solving,90.97
+HR,Croatia,2025,All individuals (16-74),Problem solving,77.33
+IT,Italy,2025,All individuals (16-74),Problem solving,78.18
+CY,Cyprus,2025,All individuals (16-74),Problem solving,86.08
+LV,Latvia,2025,All individuals (16-74),Problem solving,89.72
+LT,Lithuania,2025,All individuals (16-74),Problem solving,82.8
+LU,Luxembourg,2025,All individuals (16-74),Problem solving,92.83
+HU,Hungary,2025,All individuals (16-74),Problem solving,83.45
+MT,Malta,2025,All individuals (16-74),Problem solving,88.81
+NL,Netherlands,2025,All individuals (16-74),Problem solving,98.49
+AT,Austria,2025,All individuals (16-74),Problem solving,88.66
+PL,Poland,2025,All individuals (16-74),Problem solving,80.41
+PT,Portugal,2025,All individuals (16-74),Problem solving,77.76
+RO,Romania,2025,All individuals (16-74),Problem solving,67.76
+SI,Slovenia,2025,All individuals (16-74),Problem solving,81.02
+SK,Slovakia,2025,All individuals (16-74),Problem solving,86.09
+FI,Finland,2025,All individuals (16-74),Problem solving,97.3
+SE,Sweden,2025,All individuals (16-74),Problem solving,96.28
+NO,Norway,2025,All individuals (16-74),Problem solving,98.23
+CH,Switzerland,2025,All individuals (16-74),Problem solving,94.66
+BA,Bosnia and Herzegovina,2025,All individuals (16-74),Problem solving,66.76
+ME,Montenegro,2025,All individuals (16-74),Problem solving,81.26
+MK,North Macedonia,2025,All individuals (16-74),Problem solving,67.85
+AL,Albania,2025,All individuals (16-74),Problem solving,59.35
+RS,Serbia,2025,All individuals (16-74),Problem solving,77.95
+TR,Türkiye,2025,All individuals (16-74),Problem solving,74.84
+XK,Kosovo*,2025,All individuals (16-74),Problem solving,85.46
+EU27_2020,European Union - 27 countries (from 2020),2025,All individuals (16-74),Overall (all five areas),60.4
+EA,Euro area,2025,All individuals (16-74),Overall (all five areas),62.6
+BE,Belgium,2025,All individuals (16-74),Overall (all five areas),61.22
+BG,Bulgaria,2025,All individuals (16-74),Overall (all five areas),38.26
+CZ,Czechia,2025,All individuals (16-74),Overall (all five areas),70.45
+DK,Denmark,2025,All individuals (16-74),Overall (all five areas),81.45
+DE,Germany,2025,All individuals (16-74),Overall (all five areas),59.55
+EE,Estonia,2025,All individuals (16-74),Overall (all five areas),62.52
+IE,Ireland,2025,All individuals (16-74),Overall (all five areas),82.82
+EL,Greece,2025,All individuals (16-74),Overall (all five areas),50.96
+ES,Spain,2025,All individuals (16-74),Overall (all five areas),66.5
+FR,France,2025,All individuals (16-74),Overall (all five areas),65.74
+HR,Croatia,2025,All individuals (16-74),Overall (all five areas),63.38
+IT,Italy,2025,All individuals (16-74),Overall (all five areas),54.27
+CY,Cyprus,2025,All individuals (16-74),Overall (all five areas),55.75
+LV,Latvia,2025,All individuals (16-74),Overall (all five areas),48.43
+LT,Lithuania,2025,All individuals (16-74),Overall (all five areas),53.8
+LU,Luxembourg,2025,All individuals (16-74),Overall (all five areas),62.4
+HU,Hungary,2025,All individuals (16-74),Overall (all five areas),57.32
+MT,Malta,2025,All individuals (16-74),Overall (all five areas),66.8
+NL,Netherlands,2025,All individuals (16-74),Overall (all five areas),83.61
+AT,Austria,2025,All individuals (16-74),Overall (all five areas),69.77
+PL,Poland,2025,All individuals (16-74),Overall (all five areas),50.42
+PT,Portugal,2025,All individuals (16-74),Overall (all five areas),59.15
+RO,Romania,2025,All individuals (16-74),Overall (all five areas),31.84
+SI,Slovenia,2025,All individuals (16-74),Overall (all five areas),46.5
+SK,Slovakia,2025,All individuals (16-74),Overall (all five areas),53.56
+FI,Finland,2025,All individuals (16-74),Overall (all five areas),80.98
+SE,Sweden,2025,All individuals (16-74),Overall (all five areas),69.99
+NO,Norway,2025,All individuals (16-74),Overall (all five areas),79.8
+CH,Switzerland,2025,All individuals (16-74),Overall (all five areas),78.01
+BA,Bosnia and Herzegovina,2025,All individuals (16-74),Overall (all five areas),36.25
+ME,Montenegro,2025,All individuals (16-74),Overall (all five areas),44.2
+MK,North Macedonia,2025,All individuals (16-74),Overall (all five areas),28.5
+AL,Albania,2025,All individuals (16-74),Overall (all five areas),27.65
+RS,Serbia,2025,All individuals (16-74),Overall (all five areas),42.02
+TR,Türkiye,2025,All individuals (16-74),Overall (all five areas),31.49
+XK,Kosovo*,2025,All individuals (16-74),Overall (all five areas),75.59
+EU27_2020,European Union - 27 countries (from 2020),2025,16-24,Information and data literacy,90.55
+EA,Euro area,2025,16-24,Information and data literacy,90.46
+BE,Belgium,2025,16-24,Information and data literacy,89.61
+BG,Bulgaria,2025,16-24,Information and data literacy,77.17
+CZ,Czechia,2025,16-24,Information and data literacy,97.07
+DK,Denmark,2025,16-24,Information and data literacy,97.52
+DE,Germany,2025,16-24,Information and data literacy,87.45
+EE,Estonia,2025,16-24,Information and data literacy,95.5
+IE,Ireland,2025,16-24,Information and data literacy,87.63
+EL,Greece,2025,16-24,Information and data literacy,99.14
+ES,Spain,2025,16-24,Information and data literacy,93.59
+FR,France,2025,16-24,Information and data literacy,92.64
+HR,Croatia,2025,16-24,Information and data literacy,97.43
+IT,Italy,2025,16-24,Information and data literacy,82.81
+CY,Cyprus,2025,16-24,Information and data literacy,96.33
+LV,Latvia,2025,16-24,Information and data literacy,82.19
+LT,Lithuania,2025,16-24,Information and data literacy,94.86
+LU,Luxembourg,2025,16-24,Information and data literacy,88.88
+HU,Hungary,2025,16-24,Information and data literacy,91.96
+MT,Malta,2025,16-24,Information and data literacy,97.95
+NL,Netherlands,2025,16-24,Information and data literacy,97.09
+AT,Austria,2025,16-24,Information and data literacy,89.75
+PL,Poland,2025,16-24,Information and data literacy,91.21
+PT,Portugal,2025,16-24,Information and data literacy,94.84
+RO,Romania,2025,16-24,Information and data literacy,86.4
+SI,Slovenia,2025,16-24,Information and data literacy,97.6
+SK,Slovakia,2025,16-24,Information and data literacy,92.91
+FI,Finland,2025,16-24,Information and data literacy,98.52
+SE,Sweden,2025,16-24,Information and data literacy,93.51
+NO,Norway,2025,16-24,Information and data literacy,96.34
+CH,Switzerland,2025,16-24,Information and data literacy,97.51
+BA,Bosnia and Herzegovina,2025,16-24,Information and data literacy,94.67
+ME,Montenegro,2025,16-24,Information and data literacy,92.74
+MK,North Macedonia,2025,16-24,Information and data literacy,73.41
+AL,Albania,2025,16-24,Information and data literacy,90.75
+RS,Serbia,2025,16-24,Information and data literacy,100.0
+TR,Türkiye,2025,16-24,Information and data literacy,90.12
+XK,Kosovo*,2025,16-24,Information and data literacy,96.42
+EU27_2020,European Union - 27 countries (from 2020),2025,16-24,Communication and collaboration,98.41
+EA,Euro area,2025,16-24,Communication and collaboration,98.28
+BE,Belgium,2025,16-24,Communication and collaboration,98.9
+BG,Bulgaria,2025,16-24,Communication and collaboration,97.75
+CZ,Czechia,2025,16-24,Communication and collaboration,99.24
+DK,Denmark,2025,16-24,Communication and collaboration,99.1
+DE,Germany,2025,16-24,Communication and collaboration,96.08
+EE,Estonia,2025,16-24,Communication and collaboration,98.56
+IE,Ireland,2025,16-24,Communication and collaboration,100.0
+EL,Greece,2025,16-24,Communication and collaboration,100.0
+ES,Spain,2025,16-24,Communication and collaboration,99.57
+FR,France,2025,16-24,Communication and collaboration,99.24
+HR,Croatia,2025,16-24,Communication and collaboration,98.69
+IT,Italy,2025,16-24,Communication and collaboration,96.93
+CY,Cyprus,2025,16-24,Communication and collaboration,98.46
+LV,Latvia,2025,16-24,Communication and collaboration,98.39
+LT,Lithuania,2025,16-24,Communication and collaboration,98.81
+LU,Luxembourg,2025,16-24,Communication and collaboration,98.78
+HU,Hungary,2025,16-24,Communication and collaboration,97.86
+MT,Malta,2025,16-24,Communication and collaboration,100.0
+NL,Netherlands,2025,16-24,Communication and collaboration,100.0
+AT,Austria,2025,16-24,Communication and collaboration,99.67
+PL,Poland,2025,16-24,Communication and collaboration,99.65
+PT,Portugal,2025,16-24,Communication and collaboration,99.22
+RO,Romania,2025,16-24,Communication and collaboration,97.97
+SI,Slovenia,2025,16-24,Communication and collaboration,99.57
+SK,Slovakia,2025,16-24,Communication and collaboration,98.6
+FI,Finland,2025,16-24,Communication and collaboration,99.78
+SE,Sweden,2025,16-24,Communication and collaboration,98.99
+NO,Norway,2025,16-24,Communication and collaboration,99.0
+CH,Switzerland,2025,16-24,Communication and collaboration,100.0
+BA,Bosnia and Herzegovina,2025,16-24,Communication and collaboration,99.69
+ME,Montenegro,2025,16-24,Communication and collaboration,97.77
+MK,North Macedonia,2025,16-24,Communication and collaboration,100.0
+AL,Albania,2025,16-24,Communication and collaboration,99.81
+RS,Serbia,2025,16-24,Communication and collaboration,100.0
+TR,Türkiye,2025,16-24,Communication and collaboration,97.16
+XK,Kosovo*,2025,16-24,Communication and collaboration,100.0
+EU27_2020,European Union - 27 countries (from 2020),2025,16-24,Digital content creation,88.47
+EA,Euro area,2025,16-24,Digital content creation,88.95
+BE,Belgium,2025,16-24,Digital content creation,91.48
+BG,Bulgaria,2025,16-24,Digital content creation,78.04
+CZ,Czechia,2025,16-24,Digital content creation,94.46
+DK,Denmark,2025,16-24,Digital content creation,97.27
+DE,Germany,2025,16-24,Digital content creation,81.32
+EE,Estonia,2025,16-24,Digital content creation,90.35
+IE,Ireland,2025,16-24,Digital content creation,91.83
+EL,Greece,2025,16-24,Digital content creation,89.46
+ES,Spain,2025,16-24,Digital content creation,92.56
+FR,France,2025,16-24,Digital content creation,93.44
+HR,Croatia,2025,16-24,Digital content creation,96.14
+IT,Italy,2025,16-24,Digital content creation,84.3
+CY,Cyprus,2025,16-24,Digital content creation,89.92
+LV,Latvia,2025,16-24,Digital content creation,86.38
+LT,Lithuania,2025,16-24,Digital content creation,92.94
+LU,Luxembourg,2025,16-24,Digital content creation,84.98
+HU,Hungary,2025,16-24,Digital content creation,82.07
+MT,Malta,2025,16-24,Digital content creation,96.03
+NL,Netherlands,2025,16-24,Digital content creation,94.47
+AT,Austria,2025,16-24,Digital content creation,95.27
+PL,Poland,2025,16-24,Digital content creation,93.74
+PT,Portugal,2025,16-24,Digital content creation,92.55
+RO,Romania,2025,16-24,Digital content creation,70.72
+SI,Slovenia,2025,16-24,Digital content creation,93.11
+SK,Slovakia,2025,16-24,Digital content creation,91.27
+FI,Finland,2025,16-24,Digital content creation,92.26
+SE,Sweden,2025,16-24,Digital content creation,85.49
+NO,Norway,2025,16-24,Digital content creation,91.46
+CH,Switzerland,2025,16-24,Digital content creation,94.46
+BA,Bosnia and Herzegovina,2025,16-24,Digital content creation,92.93
+ME,Montenegro,2025,16-24,Digital content creation,90.36
+MK,North Macedonia,2025,16-24,Digital content creation,58.72
+AL,Albania,2025,16-24,Digital content creation,99.81
+RS,Serbia,2025,16-24,Digital content creation,97.05
+TR,Türkiye,2025,16-24,Digital content creation,58.14
+XK,Kosovo*,2025,16-24,Digital content creation,99.64
+EU27_2020,European Union - 27 countries (from 2020),2025,16-24,Safety,83.79
+EA,Euro area,2025,16-24,Safety,84.23
+BE,Belgium,2025,16-24,Safety,79.35
+BG,Bulgaria,2025,16-24,Safety,67.41
+CZ,Czechia,2025,16-24,Safety,97.0
+DK,Denmark,2025,16-24,Safety,94.43
+DE,Germany,2025,16-24,Safety,73.8
+EE,Estonia,2025,16-24,Safety,90.36
+IE,Ireland,2025,16-24,Safety,86.03
+EL,Greece,2025,16-24,Safety,88.19
+ES,Spain,2025,16-24,Safety,92.31
+FR,France,2025,16-24,Safety,86.27
+HR,Croatia,2025,16-24,Safety,93.83
+IT,Italy,2025,16-24,Safety,82.75
+CY,Cyprus,2025,16-24,Safety,66.68
+LV,Latvia,2025,16-24,Safety,81.46
+LT,Lithuania,2025,16-24,Safety,86.87
+LU,Luxembourg,2025,16-24,Safety,72.49
+HU,Hungary,2025,16-24,Safety,90.31
+MT,Malta,2025,16-24,Safety,92.2
+NL,Netherlands,2025,16-24,Safety,93.61
+AT,Austria,2025,16-24,Safety,82.61
+PL,Poland,2025,16-24,Safety,82.76
+PT,Portugal,2025,16-24,Safety,93.32
+RO,Romania,2025,16-24,Safety,68.11
+SI,Slovenia,2025,16-24,Safety,70.97
+SK,Slovakia,2025,16-24,Safety,85.62
+FI,Finland,2025,16-24,Safety,96.0
+SE,Sweden,2025,16-24,Safety,82.3
+NO,Norway,2025,16-24,Safety,86.92
+CH,Switzerland,2025,16-24,Safety,90.24
+BA,Bosnia and Herzegovina,2025,16-24,Safety,75.97
+ME,Montenegro,2025,16-24,Safety,68.98
+MK,North Macedonia,2025,16-24,Safety,72.35
+AL,Albania,2025,16-24,Safety,67.69
+RS,Serbia,2025,16-24,Safety,77.46
+TR,Türkiye,2025,16-24,Safety,68.07
+XK,Kosovo*,2025,16-24,Safety,100.0
+EU27_2020,European Union - 27 countries (from 2020),2025,16-24,Problem solving,96.06
+EA,Euro area,2025,16-24,Problem solving,96.21
+BE,Belgium,2025,16-24,Problem solving,97.98
+BG,Bulgaria,2025,16-24,Problem solving,86.34
+CZ,Czechia,2025,16-24,Problem solving,98.7
+DK,Denmark,2025,16-24,Problem solving,98.92
+DE,Germany,2025,16-24,Problem solving,92.4
+EE,Estonia,2025,16-24,Problem solving,98.35
+IE,Ireland,2025,16-24,Problem solving,100.0
+EL,Greece,2025,16-24,Problem solving,99.48
+ES,Spain,2025,16-24,Problem solving,98.7
+FR,France,2025,16-24,Problem solving,98.18
+HR,Croatia,2025,16-24,Problem solving,98.01
+IT,Italy,2025,16-24,Problem solving,92.77
+CY,Cyprus,2025,16-24,Problem solving,96.16
+LV,Latvia,2025,16-24,Problem solving,97.82
+LT,Lithuania,2025,16-24,Problem solving,97.26
+LU,Luxembourg,2025,16-24,Problem solving,97.97
+HU,Hungary,2025,16-24,Problem solving,95.97
+MT,Malta,2025,16-24,Problem solving,99.31
+NL,Netherlands,2025,16-24,Problem solving,100.0
+AT,Austria,2025,16-24,Problem solving,98.56
+PL,Poland,2025,16-24,Problem solving,98.45
+PT,Portugal,2025,16-24,Problem solving,96.01
+RO,Romania,2025,16-24,Problem solving,87.89
+SI,Slovenia,2025,16-24,Problem solving,96.98
+SK,Slovakia,2025,16-24,Problem solving,96.61
+FI,Finland,2025,16-24,Problem solving,99.42
+SE,Sweden,2025,16-24,Problem solving,97.66
+NO,Norway,2025,16-24,Problem solving,99.45
+CH,Switzerland,2025,16-24,Problem solving,99.1
+BA,Bosnia and Herzegovina,2025,16-24,Problem solving,98.27
+ME,Montenegro,2025,16-24,Problem solving,88.83
+MK,North Macedonia,2025,16-24,Problem solving,86.0
+AL,Albania,2025,16-24,Problem solving,97.29
+RS,Serbia,2025,16-24,Problem solving,98.68
+TR,Türkiye,2025,16-24,Problem solving,89.97
+XK,Kosovo*,2025,16-24,Problem solving,96.53
+EU27_2020,European Union - 27 countries (from 2020),2025,16-24,Overall (all five areas),74.55
+EA,Euro area,2025,16-24,Overall (all five areas),75.18
+BE,Belgium,2025,16-24,Overall (all five areas),73.09
+BG,Bulgaria,2025,16-24,Overall (all five areas),52.81
+CZ,Czechia,2025,16-24,Overall (all five areas),91.68
+DK,Denmark,2025,16-24,Overall (all five areas),92.06
+DE,Germany,2025,16-24,Overall (all five areas),62.34
+EE,Estonia,2025,16-24,Overall (all five areas),80.91
+IE,Ireland,2025,16-24,Overall (all five areas),85.5
+EL,Greece,2025,16-24,Overall (all five areas),79.24
+ES,Spain,2025,16-24,Overall (all five areas),82.55
+FR,France,2025,16-24,Overall (all five areas),80.42
+HR,Croatia,2025,16-24,Overall (all five areas),89.09
+IT,Italy,2025,16-24,Overall (all five areas),68.5
+CY,Cyprus,2025,16-24,Overall (all five areas),63.86
+LV,Latvia,2025,16-24,Overall (all five areas),65.36
+LT,Lithuania,2025,16-24,Overall (all five areas),80.66
+LU,Luxembourg,2025,16-24,Overall (all five areas),63.62
+HU,Hungary,2025,16-24,Overall (all five areas),76.32
+MT,Malta,2025,16-24,Overall (all five areas),91.52
+NL,Netherlands,2025,16-24,Overall (all five areas),88.51
+AT,Austria,2025,16-24,Overall (all five areas),78.04
+PL,Poland,2025,16-24,Overall (all five areas),73.64
+PT,Portugal,2025,16-24,Overall (all five areas),83.37
+RO,Romania,2025,16-24,Overall (all five areas),53.28
+SI,Slovenia,2025,16-24,Overall (all five areas),67.45
+SK,Slovakia,2025,16-24,Overall (all five areas),80.53
+FI,Finland,2025,16-24,Overall (all five areas),89.87
+SE,Sweden,2025,16-24,Overall (all five areas),74.16
+NO,Norway,2025,16-24,Overall (all five areas),81.03
+CH,Switzerland,2025,16-24,Overall (all five areas),84.8
+BA,Bosnia and Herzegovina,2025,16-24,Overall (all five areas),70.78
+ME,Montenegro,2025,16-24,Overall (all five areas),62.4
+MK,North Macedonia,2025,16-24,Overall (all five areas),44.47
+AL,Albania,2025,16-24,Overall (all five areas),61.15
+RS,Serbia,2025,16-24,Overall (all five areas),77.05
+TR,Türkiye,2025,16-24,Overall (all five areas),46.33
+XK,Kosovo*,2025,16-24,Overall (all five areas),93.13
+EU27_2020,European Union - 27 countries (from 2020),2025,25-54,Information and data literacy,91.66
+EA,Euro area,2025,25-54,Information and data literacy,91.54
+BE,Belgium,2025,25-54,Information and data literacy,92.45
+BG,Bulgaria,2025,25-54,Information and data literacy,82.53
+CZ,Czechia,2025,25-54,Information and data literacy,97.76
+DK,Denmark,2025,25-54,Information and data literacy,97.99
+DE,Germany,2025,25-54,Information and data literacy,91.7
+EE,Estonia,2025,25-54,Information and data literacy,96.8
+IE,Ireland,2025,25-54,Information and data literacy,99.02
+EL,Greece,2025,25-54,Information and data literacy,94.91
+ES,Spain,2025,25-54,Information and data literacy,93.68
+FR,France,2025,25-54,Information and data literacy,89.79
+HR,Croatia,2025,25-54,Information and data literacy,94.77
+IT,Italy,2025,25-54,Information and data literacy,85.34
+CY,Cyprus,2025,25-54,Information and data literacy,97.9
+LV,Latvia,2025,25-54,Information and data literacy,89.85
+LT,Lithuania,2025,25-54,Information and data literacy,94.43
+LU,Luxembourg,2025,25-54,Information and data literacy,93.59
+HU,Hungary,2025,25-54,Information and data literacy,91.63
+MT,Malta,2025,25-54,Information and data literacy,96.41
+NL,Netherlands,2025,25-54,Information and data literacy,98.79
+AT,Austria,2025,25-54,Information and data literacy,92.96
+PL,Poland,2025,25-54,Information and data literacy,92.76
+PT,Portugal,2025,25-54,Information and data literacy,94.16
+RO,Romania,2025,25-54,Information and data literacy,86.07
+SI,Slovenia,2025,25-54,Information and data literacy,95.89
+SK,Slovakia,2025,25-54,Information and data literacy,90.01
+FI,Finland,2025,25-54,Information and data literacy,99.65
+SE,Sweden,2025,25-54,Information and data literacy,97.26
+NO,Norway,2025,25-54,Information and data literacy,97.68
+CH,Switzerland,2025,25-54,Information and data literacy,96.74
+BA,Bosnia and Herzegovina,2025,25-54,Information and data literacy,94.71
+ME,Montenegro,2025,25-54,Information and data literacy,89.93
+MK,North Macedonia,2025,25-54,Information and data literacy,81.31
+AL,Albania,2025,25-54,Information and data literacy,85.91
+RS,Serbia,2025,25-54,Information and data literacy,96.83
+TR,Türkiye,2025,25-54,Information and data literacy,85.14
+XK,Kosovo*,2025,25-54,Information and data literacy,90.54
+EU27_2020,European Union - 27 countries (from 2020),2025,25-54,Communication and collaboration,96.5
+EA,Euro area,2025,25-54,Communication and collaboration,96.59
+BE,Belgium,2025,25-54,Communication and collaboration,97.48
+BG,Bulgaria,2025,25-54,Communication and collaboration,94.12
+CZ,Czechia,2025,25-54,Communication and collaboration,98.37
+DK,Denmark,2025,25-54,Communication and collaboration,99.0
+DE,Germany,2025,25-54,Communication and collaboration,96.11
+EE,Estonia,2025,25-54,Communication and collaboration,97.82
+IE,Ireland,2025,25-54,Communication and collaboration,99.76
+EL,Greece,2025,25-54,Communication and collaboration,96.82
+ES,Spain,2025,25-54,Communication and collaboration,98.37
+FR,France,2025,25-54,Communication and collaboration,97.12
+HR,Croatia,2025,25-54,Communication and collaboration,95.61
+IT,Italy,2025,25-54,Communication and collaboration,92.81
+CY,Cyprus,2025,25-54,Communication and collaboration,98.8
+LV,Latvia,2025,25-54,Communication and collaboration,97.59
+LT,Lithuania,2025,25-54,Communication and collaboration,95.44
+LU,Luxembourg,2025,25-54,Communication and collaboration,98.83
+HU,Hungary,2025,25-54,Communication and collaboration,94.32
+MT,Malta,2025,25-54,Communication and collaboration,99.64
+NL,Netherlands,2025,25-54,Communication and collaboration,99.72
+AT,Austria,2025,25-54,Communication and collaboration,98.4
+PL,Poland,2025,25-54,Communication and collaboration,95.32
+PT,Portugal,2025,25-54,Communication and collaboration,97.05
+RO,Romania,2025,25-54,Communication and collaboration,96.79
+SI,Slovenia,2025,25-54,Communication and collaboration,97.75
+SK,Slovakia,2025,25-54,Communication and collaboration,95.82
+FI,Finland,2025,25-54,Communication and collaboration,99.72
+SE,Sweden,2025,25-54,Communication and collaboration,97.82
+NO,Norway,2025,25-54,Communication and collaboration,97.93
+CH,Switzerland,2025,25-54,Communication and collaboration,99.2
+BA,Bosnia and Herzegovina,2025,25-54,Communication and collaboration,98.55
+ME,Montenegro,2025,25-54,Communication and collaboration,95.95
+MK,North Macedonia,2025,25-54,Communication and collaboration,96.65
+AL,Albania,2025,25-54,Communication and collaboration,95.45
+RS,Serbia,2025,25-54,Communication and collaboration,98.17
+TR,Türkiye,2025,25-54,Communication and collaboration,95.86
+XK,Kosovo*,2025,25-54,Communication and collaboration,99.56
+EU27_2020,European Union - 27 countries (from 2020),2025,25-54,Digital content creation,78.34
+EA,Euro area,2025,25-54,Digital content creation,80.19
+BE,Belgium,2025,25-54,Digital content creation,81.87
+BG,Bulgaria,2025,25-54,Digital content creation,64.08
+CZ,Czechia,2025,25-54,Digital content creation,84.64
+DK,Denmark,2025,25-54,Digital content creation,91.75
+DE,Germany,2025,25-54,Digital content creation,79.28
+EE,Estonia,2025,25-54,Digital content creation,81.18
+IE,Ireland,2025,25-54,Digital content creation,92.95
+EL,Greece,2025,25-54,Digital content creation,68.64
+ES,Spain,2025,25-54,Digital content creation,80.97
+FR,France,2025,25-54,Digital content creation,83.4
+HR,Croatia,2025,25-54,Digital content creation,90.03
+IT,Italy,2025,25-54,Digital content creation,71.36
+CY,Cyprus,2025,25-54,Digital content creation,80.55
+LV,Latvia,2025,25-54,Digital content creation,72.52
+LT,Lithuania,2025,25-54,Digital content creation,76.82
+LU,Luxembourg,2025,25-54,Digital content creation,84.14
+HU,Hungary,2025,25-54,Digital content creation,71.1
+MT,Malta,2025,25-54,Digital content creation,82.11
+NL,Netherlands,2025,25-54,Digital content creation,92.79
+AT,Austria,2025,25-54,Digital content creation,92.68
+PL,Poland,2025,25-54,Digital content creation,74.32
+PT,Portugal,2025,25-54,Digital content creation,77.65
+RO,Romania,2025,25-54,Digital content creation,50.73
+SI,Slovenia,2025,25-54,Digital content creation,74.09
+SK,Slovakia,2025,25-54,Digital content creation,74.74
+FI,Finland,2025,25-54,Digital content creation,92.51
+SE,Sweden,2025,25-54,Digital content creation,86.0
+NO,Norway,2025,25-54,Digital content creation,90.68
+CH,Switzerland,2025,25-54,Digital content creation,90.3
+BA,Bosnia and Herzegovina,2025,25-54,Digital content creation,73.28
+ME,Montenegro,2025,25-54,Digital content creation,91.33
+MK,North Macedonia,2025,25-54,Digital content creation,40.14
+AL,Albania,2025,25-54,Digital content creation,70.57
+RS,Serbia,2025,25-54,Digital content creation,83.44
+TR,Türkiye,2025,25-54,Digital content creation,44.48
+XK,Kosovo*,2025,25-54,Digital content creation,99.56
+EU27_2020,European Union - 27 countries (from 2020),2025,25-54,Safety,80.88
+EA,Euro area,2025,25-54,Safety,82.16
+BE,Belgium,2025,25-54,Safety,75.16
+BG,Bulgaria,2025,25-54,Safety,64.84
+CZ,Czechia,2025,25-54,Safety,94.57
+DK,Denmark,2025,25-54,Safety,92.79
+DE,Germany,2025,25-54,Safety,77.78
+EE,Estonia,2025,25-54,Safety,85.5
+IE,Ireland,2025,25-54,Safety,90.54
+EL,Greece,2025,25-54,Safety,78.74
+ES,Spain,2025,25-54,Safety,87.22
+FR,France,2025,25-54,Safety,83.24
+HR,Croatia,2025,25-54,Safety,82.83
+IT,Italy,2025,25-54,Safety,80.02
+CY,Cyprus,2025,25-54,Safety,75.65
+LV,Latvia,2025,25-54,Safety,74.99
+LT,Lithuania,2025,25-54,Safety,77.2
+LU,Luxembourg,2025,25-54,Safety,76.38
+HU,Hungary,2025,25-54,Safety,86.4
+MT,Malta,2025,25-54,Safety,85.06
+NL,Netherlands,2025,25-54,Safety,93.63
+AT,Austria,2025,25-54,Safety,81.25
+PL,Poland,2025,25-54,Safety,74.82
+PT,Portugal,2025,25-54,Safety,87.64
+RO,Romania,2025,25-54,Safety,59.52
+SI,Slovenia,2025,25-54,Safety,66.12
+SK,Slovakia,2025,25-54,Safety,73.66
+FI,Finland,2025,25-54,Safety,96.58
+SE,Sweden,2025,25-54,Safety,85.41
+NO,Norway,2025,25-54,Safety,90.12
+CH,Switzerland,2025,25-54,Safety,92.06
+BA,Bosnia and Herzegovina,2025,25-54,Safety,66.17
+ME,Montenegro,2025,25-54,Safety,51.72
+MK,North Macedonia,2025,25-54,Safety,66.62
+AL,Albania,2025,25-54,Safety,51.35
+RS,Serbia,2025,25-54,Safety,55.5
+TR,Türkiye,2025,25-54,Safety,62.37
+XK,Kosovo*,2025,25-54,Safety,99.11
+EU27_2020,European Union - 27 countries (from 2020),2025,25-54,Problem solving,93.05
+EA,Euro area,2025,25-54,Problem solving,93.8
+BE,Belgium,2025,25-54,Problem solving,95.98
+BG,Bulgaria,2025,25-54,Problem solving,76.74
+CZ,Czechia,2025,25-54,Problem solving,97.54
+DK,Denmark,2025,25-54,Problem solving,98.91
+DE,Germany,2025,25-54,Problem solving,93.92
+EE,Estonia,2025,25-54,Problem solving,98.09
+IE,Ireland,2025,25-54,Problem solving,99.53
+EL,Greece,2025,25-54,Problem solving,93.01
+ES,Spain,2025,25-54,Problem solving,95.4
+FR,France,2025,25-54,Problem solving,95.72
+HR,Croatia,2025,25-54,Problem solving,93.31
+IT,Italy,2025,25-54,Problem solving,86.94
+CY,Cyprus,2025,25-54,Problem solving,94.83
+LV,Latvia,2025,25-54,Problem solving,97.16
+LT,Lithuania,2025,25-54,Problem solving,94.14
+LU,Luxembourg,2025,25-54,Problem solving,96.62
+HU,Hungary,2025,25-54,Problem solving,91.24
+MT,Malta,2025,25-54,Problem solving,97.09
+NL,Netherlands,2025,25-54,Problem solving,99.46
+AT,Austria,2025,25-54,Problem solving,95.44
+PL,Poland,2025,25-54,Problem solving,93.09
+PT,Portugal,2025,25-54,Problem solving,90.3
+RO,Romania,2025,25-54,Problem solving,79.29
+SI,Slovenia,2025,25-54,Problem solving,91.54
+SK,Slovakia,2025,25-54,Problem solving,94.22
+FI,Finland,2025,25-54,Problem solving,99.58
+SE,Sweden,2025,25-54,Problem solving,97.62
+NO,Norway,2025,25-54,Problem solving,98.1
+CH,Switzerland,2025,25-54,Problem solving,97.56
+BA,Bosnia and Herzegovina,2025,25-54,Problem solving,89.15
+ME,Montenegro,2025,25-54,Problem solving,83.06
+MK,North Macedonia,2025,25-54,Problem solving,77.7
+AL,Albania,2025,25-54,Problem solving,82.11
+RS,Serbia,2025,25-54,Problem solving,91.74
+TR,Türkiye,2025,25-54,Problem solving,83.99
+XK,Kosovo*,2025,25-54,Problem solving,89.72
+EU27_2020,European Union - 27 countries (from 2020),2025,25-54,Overall (all five areas),68.57
+EA,Euro area,2025,25-54,Overall (all five areas),70.43
+BE,Belgium,2025,25-54,Overall (all five areas),67.77
+BG,Bulgaria,2025,25-54,Overall (all five areas),48.42
+CZ,Czechia,2025,25-54,Overall (all five areas),82.24
+DK,Denmark,2025,25-54,Overall (all five areas),86.89
+DE,Germany,2025,25-54,Overall (all five areas),66.43
+EE,Estonia,2025,25-54,Overall (all five areas),74.65
+IE,Ireland,2025,25-54,Overall (all five areas),85.37
+EL,Greece,2025,25-54,Overall (all five areas),58.78
+ES,Spain,2025,25-54,Overall (all five areas),74.51
+FR,France,2025,25-54,Overall (all five areas),73.11
+HR,Croatia,2025,25-54,Overall (all five areas),76.86
+IT,Italy,2025,25-54,Overall (all five areas),63.2
+CY,Cyprus,2025,25-54,Overall (all five areas),66.98
+LV,Latvia,2025,25-54,Overall (all five areas),58.84
+LT,Lithuania,2025,25-54,Overall (all five areas),67.23
+LU,Luxembourg,2025,25-54,Overall (all five areas),68.67
+HU,Hungary,2025,25-54,Overall (all five areas),65.66
+MT,Malta,2025,25-54,Overall (all five areas),75.67
+NL,Netherlands,2025,25-54,Overall (all five areas),88.71
+AT,Austria,2025,25-54,Overall (all five areas),76.41
+PL,Poland,2025,25-54,Overall (all five areas),62.03
+PT,Portugal,2025,25-54,Overall (all five areas),71.89
+RO,Romania,2025,25-54,Overall (all five areas),39.14
+SI,Slovenia,2025,25-54,Overall (all five areas),56.38
+SK,Slovakia,2025,25-54,Overall (all five areas),61.59
+FI,Finland,2025,25-54,Overall (all five areas),90.21
+SE,Sweden,2025,25-54,Overall (all five areas),77.64
+NO,Norway,2025,25-54,Overall (all five areas),85.36
+CH,Switzerland,2025,25-54,Overall (all five areas),84.28
+BA,Bosnia and Herzegovina,2025,25-54,Overall (all five areas),53.43
+ME,Montenegro,2025,25-54,Overall (all five areas),45.18
+MK,North Macedonia,2025,25-54,Overall (all five areas),35.7
+AL,Albania,2025,25-54,Overall (all five areas),35.95
+RS,Serbia,2025,25-54,Overall (all five areas),49.79
+TR,Türkiye,2025,25-54,Overall (all five areas),36.67
+XK,Kosovo*,2025,25-54,Overall (all five areas),82.78
+EU27_2020,European Union - 27 countries (from 2020),2025,55-74,Information and data literacy,77.01
+EA,Euro area,2025,55-74,Information and data literacy,78.11
+BE,Belgium,2025,55-74,Information and data literacy,84.06
+BG,Bulgaria,2025,55-74,Information and data literacy,60.09
+CZ,Czechia,2025,55-74,Information and data literacy,82.44
+DK,Denmark,2025,55-74,Information and data literacy,95.24
+DE,Germany,2025,55-74,Information and data literacy,82.61
+EE,Estonia,2025,55-74,Information and data literacy,80.12
+IE,Ireland,2025,55-74,Information and data literacy,97.21
+EL,Greece,2025,55-74,Information and data literacy,69.18
+ES,Spain,2025,55-74,Information and data literacy,81.98
+FR,France,2025,55-74,Information and data literacy,75.19
+HR,Croatia,2025,55-74,Information and data literacy,63.06
+IT,Italy,2025,55-74,Information and data literacy,69.31
+CY,Cyprus,2025,55-74,Information and data literacy,78.16
+LV,Latvia,2025,55-74,Information and data literacy,74.63
+LT,Lithuania,2025,55-74,Information and data literacy,69.86
+LU,Luxembourg,2025,55-74,Information and data literacy,85.31
+HU,Hungary,2025,55-74,Information and data literacy,76.44
+MT,Malta,2025,55-74,Information and data literacy,73.07
+NL,Netherlands,2025,55-74,Information and data literacy,95.65
+AT,Austria,2025,55-74,Information and data literacy,77.52
+PL,Poland,2025,55-74,Information and data literacy,66.73
+PT,Portugal,2025,55-74,Information and data literacy,65.62
+RO,Romania,2025,55-74,Information and data literacy,66.48
+SI,Slovenia,2025,55-74,Information and data literacy,74.0
+SK,Slovakia,2025,55-74,Information and data literacy,72.61
+FI,Finland,2025,55-74,Information and data literacy,92.21
+SE,Sweden,2025,55-74,Information and data literacy,92.09
+NO,Norway,2025,55-74,Information and data literacy,97.05
+CH,Switzerland,2025,55-74,Information and data literacy,91.18
+BA,Bosnia and Herzegovina,2025,55-74,Information and data literacy,66.19
+ME,Montenegro,2025,55-74,Information and data literacy,80.65
+MK,North Macedonia,2025,55-74,Information and data literacy,59.25
+AL,Albania,2025,55-74,Information and data literacy,61.39
+RS,Serbia,2025,55-74,Information and data literacy,67.28
+TR,Türkiye,2025,55-74,Information and data literacy,45.26
+XK,Kosovo*,2025,55-74,Information and data literacy,66.46
+EU27_2020,European Union - 27 countries (from 2020),2025,55-74,Communication and collaboration,82.91
+EA,Euro area,2025,55-74,Communication and collaboration,85.01
+BE,Belgium,2025,55-74,Communication and collaboration,88.5
+BG,Bulgaria,2025,55-74,Communication and collaboration,69.25
+CZ,Czechia,2025,55-74,Communication and collaboration,80.61
+DK,Denmark,2025,55-74,Communication and collaboration,98.63
+DE,Germany,2025,55-74,Communication and collaboration,87.76
+EE,Estonia,2025,55-74,Communication and collaboration,76.06
+IE,Ireland,2025,55-74,Communication and collaboration,97.99
+EL,Greece,2025,55-74,Communication and collaboration,70.61
+ES,Spain,2025,55-74,Communication and collaboration,90.66
+FR,France,2025,55-74,Communication and collaboration,86.01
+HR,Croatia,2025,55-74,Communication and collaboration,63.26
+IT,Italy,2025,55-74,Communication and collaboration,78.5
+CY,Cyprus,2025,55-74,Communication and collaboration,77.28
+LV,Latvia,2025,55-74,Communication and collaboration,82.57
+LT,Lithuania,2025,55-74,Communication and collaboration,67.79
+LU,Luxembourg,2025,55-74,Communication and collaboration,91.57
+HU,Hungary,2025,55-74,Communication and collaboration,78.27
+MT,Malta,2025,55-74,Communication and collaboration,82.91
+NL,Netherlands,2025,55-74,Communication and collaboration,98.99
+AT,Austria,2025,55-74,Communication and collaboration,84.96
+PL,Poland,2025,55-74,Communication and collaboration,61.13
+PT,Portugal,2025,55-74,Communication and collaboration,71.2
+RO,Romania,2025,55-74,Communication and collaboration,82.45
+SI,Slovenia,2025,55-74,Communication and collaboration,74.01
+SK,Slovakia,2025,55-74,Communication and collaboration,75.55
+FI,Finland,2025,55-74,Communication and collaboration,92.13
+SE,Sweden,2025,55-74,Communication and collaboration,94.27
+NO,Norway,2025,55-74,Communication and collaboration,97.22
+CH,Switzerland,2025,55-74,Communication and collaboration,95.88
+BA,Bosnia and Herzegovina,2025,55-74,Communication and collaboration,79.55
+ME,Montenegro,2025,55-74,Communication and collaboration,89.12
+MK,North Macedonia,2025,55-74,Communication and collaboration,79.04
+AL,Albania,2025,55-74,Communication and collaboration,71.03
+RS,Serbia,2025,55-74,Communication and collaboration,70.17
+TR,Türkiye,2025,55-74,Communication and collaboration,67.76
+XK,Kosovo*,2025,55-74,Communication and collaboration,94.01
+EU27_2020,European Union - 27 countries (from 2020),2025,55-74,Digital content creation,51.8
+EA,Euro area,2025,55-74,Digital content creation,55.9
+BE,Belgium,2025,55-74,Digital content creation,57.79
+BG,Bulgaria,2025,55-74,Digital content creation,31.72
+CZ,Czechia,2025,55-74,Digital content creation,46.97
+DK,Denmark,2025,55-74,Digital content creation,73.69
+DE,Germany,2025,55-74,Digital content creation,61.43
+EE,Estonia,2025,55-74,Digital content creation,42.51
+IE,Ireland,2025,55-74,Digital content creation,83.62
+EL,Greece,2025,55-74,Digital content creation,35.15
+ES,Spain,2025,55-74,Digital content creation,55.47
+FR,France,2025,55-74,Digital content creation,59.21
+HR,Croatia,2025,55-74,Digital content creation,58.82
+IT,Italy,2025,55-74,Digital content creation,43.74
+CY,Cyprus,2025,55-74,Digital content creation,39.75
+LV,Latvia,2025,55-74,Digital content creation,42.32
+LT,Lithuania,2025,55-74,Digital content creation,31.71
+LU,Luxembourg,2025,55-74,Digital content creation,62.66
+HU,Hungary,2025,55-74,Digital content creation,39.71
+MT,Malta,2025,55-74,Digital content creation,39.54
+NL,Netherlands,2025,55-74,Digital content creation,77.66
+AT,Austria,2025,55-74,Digital content creation,76.49
+PL,Poland,2025,55-74,Digital content creation,29.48
+PT,Portugal,2025,55-74,Digital content creation,37.63
+RO,Romania,2025,55-74,Digital content creation,19.11
+SI,Slovenia,2025,55-74,Digital content creation,37.3
+SK,Slovakia,2025,55-74,Digital content creation,39.89
+FI,Finland,2025,55-74,Digital content creation,66.05
+SE,Sweden,2025,55-74,Digital content creation,65.43
+NO,Norway,2025,55-74,Digital content creation,73.03
+CH,Switzerland,2025,55-74,Digital content creation,72.55
+BA,Bosnia and Herzegovina,2025,55-74,Digital content creation,32.55
+ME,Montenegro,2025,55-74,Digital content creation,89.04
+MK,North Macedonia,2025,55-74,Digital content creation,13.05
+AL,Albania,2025,55-74,Digital content creation,9.35
+RS,Serbia,2025,55-74,Digital content creation,38.84
+TR,Türkiye,2025,55-74,Digital content creation,12.14
+XK,Kosovo*,2025,55-74,Digital content creation,92.01
+EU27_2020,European Union - 27 countries (from 2020),2025,55-74,Safety,61.64
+EA,Euro area,2025,55-74,Safety,64.91
+BE,Belgium,2025,55-74,Safety,59.34
+BG,Bulgaria,2025,55-74,Safety,37.72
+CZ,Czechia,2025,55-74,Safety,66.12
+DK,Denmark,2025,55-74,Safety,85.34
+DE,Germany,2025,55-74,Safety,66.62
+EE,Estonia,2025,55-74,Safety,50.55
+IE,Ireland,2025,55-74,Safety,85.52
+EL,Greece,2025,55-74,Safety,51.12
+ES,Spain,2025,55-74,Safety,66.84
+FR,France,2025,55-74,Safety,66.17
+HR,Croatia,2025,55-74,Safety,45.09
+IT,Italy,2025,55-74,Safety,61.4
+CY,Cyprus,2025,55-74,Safety,48.0
+LV,Latvia,2025,55-74,Safety,41.16
+LT,Lithuania,2025,55-74,Safety,36.71
+LU,Luxembourg,2025,55-74,Safety,62.3
+HU,Hungary,2025,55-74,Safety,65.14
+MT,Malta,2025,55-74,Safety,52.71
+NL,Netherlands,2025,55-74,Safety,89.57
+AT,Austria,2025,55-74,Safety,66.64
+PL,Poland,2025,55-74,Safety,38.76
+PT,Portugal,2025,55-74,Safety,54.2
+RO,Romania,2025,55-74,Safety,36.3
+SI,Slovenia,2025,55-74,Safety,36.02
+SK,Slovakia,2025,55-74,Safety,46.02
+FI,Finland,2025,55-74,Safety,84.4
+SE,Sweden,2025,55-74,Safety,71.29
+NO,Norway,2025,55-74,Safety,91.45
+CH,Switzerland,2025,55-74,Safety,83.77
+BA,Bosnia and Herzegovina,2025,55-74,Safety,27.37
+ME,Montenegro,2025,55-74,Safety,44.01
+MK,North Macedonia,2025,55-74,Safety,39.29
+AL,Albania,2025,55-74,Safety,22.05
+RS,Serbia,2025,55-74,Safety,25.68
+TR,Türkiye,2025,55-74,Safety,26.05
+XK,Kosovo*,2025,55-74,Safety,90.03
+EU27_2020,European Union - 27 countries (from 2020),2025,55-74,Problem solving,71.65
+EA,Euro area,2025,55-74,Problem solving,74.85
+BE,Belgium,2025,55-74,Problem solving,83.13
+BG,Bulgaria,2025,55-74,Problem solving,40.14
+CZ,Czechia,2025,55-74,Problem solving,75.98
+DK,Denmark,2025,55-74,Problem solving,98.24
+DE,Germany,2025,55-74,Problem solving,79.96
+EE,Estonia,2025,55-74,Problem solving,77.07
+IE,Ireland,2025,55-74,Problem solving,96.92
+EL,Greece,2025,55-74,Problem solving,60.78
+ES,Spain,2025,55-74,Problem solving,74.77
+FR,France,2025,55-74,Problem solving,80.65
+HR,Croatia,2025,55-74,Problem solving,47.43
+IT,Italy,2025,55-74,Problem solving,61.54
+CY,Cyprus,2025,55-74,Problem solving,65.34
+LV,Latvia,2025,55-74,Problem solving,75.85
+LT,Lithuania,2025,55-74,Problem solving,60.28
+LU,Luxembourg,2025,55-74,Problem solving,82.81
+HU,Hungary,2025,55-74,Problem solving,65.31
+MT,Malta,2025,55-74,Problem solving,63.68
+NL,Netherlands,2025,55-74,Problem solving,96.32
+AT,Austria,2025,55-74,Problem solving,74.48
+PL,Poland,2025,55-74,Problem solving,51.99
+PT,Portugal,2025,55-74,Problem solving,52.84
+RO,Romania,2025,55-74,Problem solving,42.49
+SI,Slovenia,2025,55-74,Problem solving,59.68
+SK,Slovakia,2025,55-74,Problem solving,67.81
+FI,Finland,2025,55-74,Problem solving,92.94
+SE,Sweden,2025,55-74,Problem solving,93.29
+NO,Norway,2025,55-74,Problem solving,97.87
+CH,Switzerland,2025,55-74,Problem solving,88.01
+BA,Bosnia and Herzegovina,2025,55-74,Problem solving,38.94
+ME,Montenegro,2025,55-74,Problem solving,75.33
+MK,North Macedonia,2025,55-74,Problem solving,44.35
+AL,Albania,2025,55-74,Problem solving,15.99
+RS,Serbia,2025,55-74,Problem solving,48.97
+TR,Türkiye,2025,55-74,Problem solving,41.32
+XK,Kosovo*,2025,55-74,Problem solving,67.19
+EU27_2020,European Union - 27 countries (from 2020),2025,55-74,Overall (all five areas),42.6
+EA,Euro area,2025,55-74,Overall (all five areas),46.19
+BE,Belgium,2025,55-74,Overall (all five areas),46.15
+BG,Bulgaria,2025,55-74,Overall (all five areas),19.57
+CZ,Czechia,2025,55-74,Overall (all five areas),41.68
+DK,Denmark,2025,55-74,Overall (all five areas),67.81
+DE,Germany,2025,55-74,Overall (all five areas),48.95
+EE,Estonia,2025,55-74,Overall (all five areas),34.16
+IE,Ireland,2025,55-74,Overall (all five areas),75.57
+EL,Greece,2025,55-74,Overall (all five areas),29.74
+ES,Spain,2025,55-74,Overall (all five areas),46.87
+FR,France,2025,55-74,Overall (all five areas),48.22
+HR,Croatia,2025,55-74,Overall (all five areas),34.99
+IT,Italy,2025,55-74,Overall (all five areas),37.53
+CY,Cyprus,2025,55-74,Overall (all five areas),30.73
+LV,Latvia,2025,55-74,Overall (all five areas),27.18
+LT,Lithuania,2025,55-74,Overall (all five areas),23.94
+LU,Luxembourg,2025,55-74,Overall (all five areas),48.93
+HU,Hungary,2025,55-74,Overall (all five areas),35.78
+MT,Malta,2025,55-74,Overall (all five areas),34.14
+NL,Netherlands,2025,55-74,Overall (all five areas),73.61
+AT,Austria,2025,55-74,Overall (all five areas),56.41
+PL,Poland,2025,55-74,Overall (all five areas),21.99
+PT,Portugal,2025,55-74,Overall (all five areas),31.86
+RO,Romania,2025,55-74,Overall (all five areas),12.84
+SI,Slovenia,2025,55-74,Overall (all five areas),24.43
+SK,Slovakia,2025,55-74,Overall (all five areas),30.52
+FI,Finland,2025,55-74,Overall (all five areas),63.24
+SE,Sweden,2025,55-74,Overall (all five areas),54.67
+NO,Norway,2025,55-74,Overall (all five areas),69.2
+CH,Switzerland,2025,55-74,Overall (all five areas),64.67
+BA,Bosnia and Herzegovina,2025,55-74,Overall (all five areas),13.36
+ME,Montenegro,2025,55-74,Overall (all five areas),36.21
+MK,North Macedonia,2025,55-74,Overall (all five areas),10.1
+AL,Albania,2025,55-74,Overall (all five areas),4.75
+RS,Serbia,2025,55-74,Overall (all five areas),16.88
+TR,Türkiye,2025,55-74,Overall (all five areas),8.12
+XK,Kosovo*,2025,55-74,Overall (all five areas),45.64
