@@ -8,7 +8,7 @@ and open a discussion about what else the data could contribute to the story's c
 
 ## New "About the data" intro section
 
-Added right after the page header, before chapter 1, in both `geospacific_story.html` and
+Added right after the page header, before chapter 1, in both `geospatial_story.html` and
 `Story.ipynb`. Adapted (not copied verbatim) from the README's existing "Why this project says
 'digital activities', not 'digital skills'" section, condensed for a general-audience story but
 keeping real detail as asked:
@@ -91,8 +91,8 @@ one deliberate explanatory mention (the bullet that explains *why* it's not call
 
 ## Verification
 
-- Rebuilt `geospacific_story.html` and `Story.ipynb` from all updated scripts; both built clean.
-- Synced `/root/geospacific_work/` to `/root/geospacific_test/`, regenerated `test_notebook.py`
+- Rebuilt `geospatial_story.html` and `Story.ipynb` from all updated scripts; both built clean.
+- Synced `/root/geospatial_work/` to `/root/geospatial_test/`, regenerated `test_notebook.py`
   from the rebuilt notebook, ran it standalone: all 16 code cells executed without errors,
   including the export cell.
 - Full-page Playwright scroll-and-screenshot sweep of the rebuilt HTML: only the known,
@@ -104,7 +104,7 @@ one deliberate explanatory mention (the bullet that explains *why* it's not call
 - Visually confirmed the corrected chapter 5b chart: the 25-54 diamond now reads "Digital
   content creation 78.3%" instead of the old, wrong "Safety."
 - Delivered both files to Jani (SendUserFile + `device_commit_files`, mtime-guarded) to
-  `geospacific_story.html` (repo root) and `notebooks/Story.ipynb`.
+  `geospatial_story.html` (repo root) and `notebooks/Story.ipynb`.
 
 ## Open items
 
@@ -176,9 +176,9 @@ clicked button flipped the other way).
 
 - `chapter5c_area_map.py` rendered standalone cleanly; data spot-checked against
   `digital_skills_by_area.csv` (82.7-point spread confirmed: Albania 9.35%, Kosovo* 92.01%).
-- Rebuilt `geospacific_story.html` (8.3 MB, up from 7.2 MB) and `Story.ipynb` (45 cells, up from
+- Rebuilt `geospatial_story.html` (8.3 MB, up from 7.2 MB) and `Story.ipynb` (45 cells, up from
   41) from all updated scripts.
-- Synced to `/root/geospacific_test/`, regenerated and ran `test_notebook.py`: all 17 code cells
+- Synced to `/root/geospatial_test/`, regenerated and ran `test_notebook.py`: all 17 code cells
   executed cleanly, including the new chapter 5c cell and the export cell.
 - Full-page Playwright sweep: only the known `world_110m.json` errors, now 3 instances (one per
   map: chapters 1, 4, 5c) instead of 2, exactly as expected, nothing unexpected.

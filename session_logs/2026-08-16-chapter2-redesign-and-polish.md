@@ -184,10 +184,10 @@ historical record, not swept, unless Jani asks otherwise.
   `print("Uploaded:", ...)` line behind, causing a `NameError` on the now-undefined upload
   variable. Fixed by skipping upload cells entirely (they have nothing left to run headlessly
   once the upload call is removed) rather than partially stripping them.
-- Rebuilt `Story.ipynb` (25 cells) and `geospacific_story.html` (~7.17 MB) from the updated
+- Rebuilt `Story.ipynb` (25 cells) and `geospatial_story.html` (~7.17 MB) from the updated
   cell/build scripts and ran the fixed test harness: all 10 code cells with executable content
   ran cleanly end to end, including chapter 1 through chapter 5b.
-- Full-page Playwright pass over the rebuilt `geospacific_story.html`: scrolled and
+- Full-page Playwright pass over the rebuilt `geospatial_story.html`: scrolled and
   screenshotted the entire page top to bottom, checked console/page errors. Only error present
   is the pre-existing, harmless `https://cdn.plot.ly/un/world_110m.json` fetch failure (no
   internet access in the sandbox; irrelevant since this project's choropleths use their own
@@ -262,14 +262,14 @@ history of dead ends, not just this session's:
    finding, not to reproduce the specific readability failure.
 
 `build_notebook.py` now produces 35 cells (up from 25); the appendix isn't referenced by
-`build_story_html.py` or `export_cell.py`, so `geospacific_story.html` is unaffected in scope,
+`build_story_html.py` or `export_cell.py`, so `geospatial_story.html` is unaffected in scope,
 only in the chapter2a/2b text changes above.
 
 ### Flag-rendering check, prompted by a Jani report
 
 Jani reported the 2002-vs-2017 chart (chapter2b) was missing its country flags. Re-rendered
 `build_chapter2b_figure()` fresh and confirmed via a Playwright screenshot of the actual
-rebuilt `geospacific_story.html` that flags ARE present and rendering correctly (Lithuania,
+rebuilt `geospatial_story.html` that flags ARE present and rendering correctly (Lithuania,
 Portugal, Greece, Finland, Denmark, Italy, Germany in the 2002 cluster; Croatia, Latvia,
 Bulgaria, Romania, Turkey, Estonia, Iceland, Germany in 2017). Could not reproduce "missing" in
 this sandbox's headless Chromium. Flagged back to Jani to clarify whether she was looking at a
@@ -317,6 +317,6 @@ on her end to decide. Cleared as a non-issue, no action needed.
 1. The flag-rendering report from earlier in this round (chapter2b's 2002-vs-2017 chart)
    still needs Jani's confirmation against the redelivered file, or a screenshot of wherever
    she's seeing it missing, before treating it as a real bug; not reproducible in this sandbox.
-2. `Story.ipynb` and `geospacific_story.html` need to be redelivered to Jani with this round's
+2. `Story.ipynb` and `geospatial_story.html` need to be redelivered to Jani with this round's
    full set of changes (chapter2a/2b questions and heading, chapter1 caption, appendix,
    chapter 4 button reversal); the most recent delivery in this session predates the button fix.
