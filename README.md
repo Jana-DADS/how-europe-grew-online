@@ -14,7 +14,7 @@
 
 ## About the project
 
-Interactive plotly maps and charts exploring how internet access and digital activities have spread across Europe, 2002–2025. It covers household internet access, individual internet use, and digital activities (by age, by DigComp area, and at the stricter "above basic" level), visualized as animated and clickable choropleth maps, alongside a set of supporting charts and tables that test three hypotheses about how coverage and use relate to each other. Built and prototyped in Google Colab, published as [`geospatial_story.html`](geospatial_story.html): a single self-contained interactive file, ten charts and tables across five chapters plus several "closer look" sub-sections, that opens in any browser with no login or extra software (the interactive maps do need an internet connection, since they fetch their base map layer from Plotly's CDN). The companion notebook, [`notebooks/Story.ipynb`](notebooks/Story.ipynb), builds the same story from the same code and can regenerate the HTML file itself in its last cell.
+Interactive plotly maps and charts exploring how internet access and digital activities have spread across Europe, 2002–2025. It covers household internet access, individual internet use, and digital activities (by age, by DigComp area, and at the stricter "above basic" level), visualized as animated and clickable choropleth maps, alongside a set of supporting charts and tables that test three hypotheses about how coverage and use relate to each other. Built and prototyped in Google Colab, published as [`index.html`](index.html): a single self-contained interactive file, ten charts and tables across five chapters plus several "closer look" sub-sections, that opens in any browser with no login or extra software (the interactive maps do need an internet connection, since they fetch their base map layer from Plotly's CDN). The companion notebook, [`notebooks/Story.ipynb`](notebooks/Story.ipynb), builds the same story from the same code and can regenerate the HTML file itself in its last cell.
 
 **Status: complete.** Data collection, analysis, the interactive HTML story, and the companion notebook are all finished and published.
 
@@ -94,13 +94,13 @@ Geospatial/
 │   └── geo/         # country boundary GeoJSON (35 GISCO countries + Kosovo/Iceland/UK from OpenStreetMap)
 ├── notebooks/
 │   ├── Story.ipynb          # the current, complete notebook: builds all ten charts/tables and,
-│   │                        # in its last cell, exports geospatial_story.html itself
+│   │                        # in its last cell, exports index.html itself
 │   ├── DigitalSkills.ipynb  # earlier, single-topic notebook (digital activities only); superseded by Story.ipynb
 │   └── Digitalization.ipynb # earlier, single-topic notebook (coverage/use only); superseded by Story.ipynb
 ├── scripts/
 │   └── decode.py    # decodes data/raw/ into data/processed/
 ├── session_logs/    # dated development notes, newest first
-├── geospatial_story.html  # the published, self-contained interactive story (see "About the project")
+├── index.html  # the published, self-contained interactive story (see "About the project")
 └── README.md
 ```
 
